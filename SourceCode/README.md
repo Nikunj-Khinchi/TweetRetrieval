@@ -12,6 +12,7 @@
 - *Stemming, Stopwords removal, Tokenisation.*
 - *Building the inverted index, and tfidf weighting.*
 - *Calculating the cosine similarity and ranking the documents.*
+- *IR evaluation calculate the recall and precision graph and 11 point Interpolation*
 - *Writing the result into "/dist/Results.txt"*
 - *Capturing user feedback*
 - *Integrating the IR system in flask.*
