@@ -18,14 +18,14 @@
 
 ## Setting Up and Running the Code:
 
-*Virtual Environment:*
+# Virtual Environment:
 Create and activate a virtual environment named `myenv`:
 
 `python -m venv myenv`   # Create virtual environment
-# Activate the virtual environment
-# For Windows:
+- Activate the virtual environment
+- For Windows:
 `myenv\Scripts\activate`
-# For macOS / Linux:
+-  For macOS / Linux:
 `source myenv/bin/activate`
 
 
@@ -37,7 +37,7 @@ Create and activate a virtual environment named `myenv`:
 
 4.  *Navigate* to the project directory `cd code`
 
-5. # Run the `python server.py` file and enter the query and press search.
-6. # We get the result with the rank,docno, tweet, and score.
-7. # The user can then choose if the tweet is relevant or not.
-8. # for IR evaluation `python Evaluation.py`
+5. - Run the `python server.py` file and enter the query and press search.
+6. - We get the result with the rank,docno, tweet, and score.
+7. - The user can then choose if the tweet is relevant or not.
+8. - for IR evaluation `python Evaluation.py`
