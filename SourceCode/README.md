@@ -43,4 +43,4 @@ Create and activate a virtual environment named `myenv`:
  - Demo input  `assests/test_queries.txt`
  - After clicking the submit button, put the code simultaneously while keeping the webpage functional and display the operational data in the terminal for observation.
  - The user can then choose if the tweet is relevant or not.
- - for IR evaluation `python Evaluation.py`
+ - for IR evaluation run `python Evaluation.py`
