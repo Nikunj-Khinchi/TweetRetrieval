@@ -29,15 +29,15 @@ Create and activate a virtual environment named `myenv`:
 `source myenv/bin/activate`
 
 
-1. - *python installed and executable.*
+ - *python installed and executable.*
 
-2. - *nltk libaries installed all of these can be downloaded using python -> import nltk -> nltk.download('corpus | tokenize | stem.porter'):*
+ - *nltk libaries installed all of these can be downloaded using python -> import nltk -> nltk.download('corpus | tokenize | stem.porter'):*
 
-3. - *Install Dependencies:* Ensure you have the necessary dependencies installed. You can use the provided `requirements.txt` file. `pip install -r requirements.txt`
+ - *Install Dependencies:* Ensure you have the necessary dependencies installed. You can use the provided `requirements.txt` file. `pip install -r requirements.txt`
 
-4. - *Navigate* to the project directory `cd code`
+ - *Navigate* to the project directory `cd SourceCode`
 
-5. - Run the `python server.py` file and enter the query and press search.
-6. - We get the result with the rank,docno, tweet, and score.
-7. - The user can then choose if the tweet is relevant or not.
-8. - for IR evaluation `python Evaluation.py`
+ - Run the `python server.py` file and enter the query and press search.
+ - We get the result with the rank,docno, tweet, and score.
+ - The user can then choose if the tweet is relevant or not.
+ - for IR evaluation `python Evaluation.py`
