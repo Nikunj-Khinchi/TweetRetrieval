@@ -40,5 +40,7 @@ Create and activate a virtual environment named `myenv`:
 
  - Run the `python server.py` file and enter the query and press search.
  - We get the result with the rank,docno, tweet, and score.
+ - Demo input  `assests/test_queries.txt`
+ - After clicking the submit button, put the code simultaneously while keeping the webpage functional and display the operational data in the terminal for observation.
  - The user can then choose if the tweet is relevant or not.
  - for IR evaluation `python Evaluation.py`
