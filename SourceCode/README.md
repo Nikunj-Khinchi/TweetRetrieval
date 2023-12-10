@@ -18,7 +18,7 @@
 
 ## Setting Up and Running the Code:
 
-# Virtual Environment:
+- Virtual Environment:
 Create and activate a virtual environment named `myenv`:
 
 `python -m venv myenv`   # Create virtual environment
@@ -29,13 +29,13 @@ Create and activate a virtual environment named `myenv`:
 `source myenv/bin/activate`
 
 
-1.*python installed and executable.*
+1. - *python installed and executable.*
 
-2. *nltk libaries installed all of these can be downloaded using python -> import nltk -> nltk.download('corpus | tokenize | stem.porter'):*
+2. - *nltk libaries installed all of these can be downloaded using python -> import nltk -> nltk.download('corpus | tokenize | stem.porter'):*
 
-3. *Install Dependencies:* Ensure you have the necessary dependencies installed. You can use the provided `requirements.txt` file. `pip install -r requirements.txt`
+3. - *Install Dependencies:* Ensure you have the necessary dependencies installed. You can use the provided `requirements.txt` file. `pip install -r requirements.txt`
 
-4.  *Navigate* to the project directory `cd code`
+4. - *Navigate* to the project directory `cd code`
 
 5. - Run the `python server.py` file and enter the query and press search.
 6. - We get the result with the rank,docno, tweet, and score.
