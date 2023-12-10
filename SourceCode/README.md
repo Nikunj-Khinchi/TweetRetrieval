@@ -1,8 +1,8 @@
-### Searching Relevant Tweets 
+# Searching Relevant Tweets 
 ## Team Details:
 
-# Nikunj Khinchi S20210010159
-# Manthan Shinde S20210010135
+- Nikunj Khinchi S20210010159
+- Manthan Shinde S20210010135
 
 ## Project Overview
 
